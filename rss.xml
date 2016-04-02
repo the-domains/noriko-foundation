@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Noriko Foundation]]></title>
         <description><![CDATA[Noriko Foundation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/noriko-foundation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 22:26:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 14:32:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noriko-foundation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefinedcollege-leadership-program/index.html</link>
+            <link>https://thegrid.ai/noriko-foundation/college-leadership-program/index.html</link>
             <guid isPermaLink="false">90324499-eadf-44e6-abf9-b09bb4322579</guid>
-            <pubDate>Fri, 01 Apr 2016 22:26:32 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 14:32:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
